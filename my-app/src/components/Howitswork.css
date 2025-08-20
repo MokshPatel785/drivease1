@@ -1,0 +1,179 @@
+  .how3{
+    background-color: black;
+  } 
+   
+   
+   
+   .hiw{
+   
+    /* width: 40%;
+    height: 20%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+    margin-left: 30%;
+    margin-top: 0px; */
+
+    background-image: url("optional3.3.png");
+    width: 100%;
+     background-size: cover;
+     background-repeat: no-repeat;
+     background-position: center;
+     height: 800px;
+     display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+      justify-content: space-evenly;
+      text-decoration: none;
+
+     
+
+
+}
+
+.u1{
+    width: 150px;
+    background-color: rgb(128, 128, 128);
+    color: white;
+    border-radius: 20px;
+    display: flex;
+    align-items: center;
+    text-align: center;
+    justify-content: center;
+    font-size: 1.7rem;
+    font-style: bold;
+    margin-bottom: 10%;
+    margin-left: 10%;
+}
+
+.u1 :hover{
+    width: 200px;
+    font-size: 1.7rem;
+    color: black;
+    border-radius: 20px;
+    padding: 6px;
+    background-color: aqua
+}
+
+
+
+.u1 a{
+ 
+   text-decoration: none;
+   color: inherit;
+     
+}
+    
+
+.o1{
+    width: 170px;
+    background-color: rgb(128, 128, 128);
+    color:white;
+    border-radius: 20px;
+    display: flex;
+    align-items: center;
+    text-align: center;
+    justify-content: center;
+    font-size: 1.7rem;
+    font-style: bold;
+    margin-bottom: 10%;
+    margin-right: 10%;
+}
+
+
+.o1 :hover{
+    width: 250px;
+    font-size: 1.75rem;
+    background-color: aqua;
+    color: black;
+    border-radius: 20px;
+    padding: 3px;
+
+    
+}
+
+
+
+.o1 a{
+
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border-radius: 20px;
+    text-decoration: none;
+    color: inherit;
+    
+  
+}
+    
+
+
+/* .hiw img {
+   width: 70%;
+   height: 70%;
+   object-fit: contain;
+   margin-bottom: 15px;
+ }
+
+
+.h2{
+    font-size: 2rem;
+    color: #333;
+    margin-bottom: 1rem;
+    text-align: center;
+    margin-top: 35px;
+}
+
+
+.uo{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    text-align: center;
+    justify-content: center;
+    margin-top: 40px;
+    justify-content: space-evenly;
+    list-style: none;
+   
+   gap: 20px;
+   
+   padding: 0;
+
+
+}
+
+
+
+.uo a {
+    display: inline-block;
+    width: 150px;
+    height: 50px;
+    color: white;
+    background-color: black;
+    border-radius: 20px;
+    text-decoration: none;
+    font-weight: bold;
+    font-size: 1.2rem;
+    padding:10px ;
+   
+   
+}
+
+
+.uo a:hover {
+    width: 200px;
+    height: 70px;
+    font-size: 1.7rem;
+   color:white;
+   border-radius: 20px;
+   padding: 10px;
+   background-color:gray;
+   
+ }
+
+
+.fu{
+    margin-bottom: 250px;
+} */

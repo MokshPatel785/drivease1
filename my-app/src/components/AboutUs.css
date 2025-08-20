@@ -1,0 +1,92 @@
+
+
+ 
+.html{
+  background-color: black;
+
+}
+.aboutmain {
+  display: flex;
+  flex-direction: column;
+  background-color: black;
+ 
+ 
+}
+
+
+.about1{
+  display: flex;
+  flex-direction: row;
+  height: 600px;
+}
+
+
+
+ .porse {
+  display: flex;
+  justify-content: left;
+  align-items: center;
+  width: 60%;
+  height: 100%;
+  object-fit: cover;
+  flex-direction: column;
+  padding-bottom: 20%;
+
+ }
+ 
+ .porse img {
+  width: 100%;
+  height: 100%;
+  height: auto;
+ }
+
+ .para{
+  width: 40%;
+  height: 100%;
+  display: flex;
+ }
+ .para1{
+  color: white;
+  padding-right: 30px;
+  
+ }
+
+ .para1 h1{
+  color: white;
+  font-size: 3.5rem;
+  font-family: Georgia, 'Times New Roman', Times, serif;
+  padding-top: 50px;
+
+
+ }
+
+
+ .para1 p{
+  color: white;
+  font-size: 1.2rem;
+  font-family: Georgia, 'Times New Roman', Times, serif;
+  text-align: justify;
+  padding-top: 50px;
+ }
+ 
+
+
+
+ .about2{
+  display: flex;
+  flex-direction: column;
+  height: 50%;
+  
+ }
+
+ .para2{
+  color: white;
+  padding-right: 50px;
+  padding-left: 50px;
+  font-size: 1.27rem;
+  font-family: Georgia, 'Times New Roman', Times, serif;
+  text-align: justify;
+  padding-top: 50px;
+  padding-bottom: 50px;
+ }
+ 
